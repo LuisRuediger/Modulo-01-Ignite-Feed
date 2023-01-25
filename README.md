@@ -7,7 +7,7 @@ Projeto simples em React para treinar conceitos básicos de `componentes` e `pro
 
 Aplicação WEB:
 <p align="center">
-  <img src="./github/preview-ignite-feed.png"/>
+  <img src="./.github/preview-ignite-feed.png"/>
 </p>
 
 ---
