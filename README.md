@@ -22,3 +22,4 @@ Aplicação WEB:
 ## Tecnologias
 
 - [`React`](https://pt-br.reactjs.org/)
+- [`CSS Modules`](https://github.com/css-modules/css-modules)
