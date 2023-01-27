@@ -23,7 +23,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-//Elementos que tem sua própria customização de fonte.
+/* Elementos que tem sua própria customização de fonte. */
 body, input, textarea, button {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
