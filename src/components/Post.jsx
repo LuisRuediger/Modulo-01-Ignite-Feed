@@ -10,10 +10,11 @@ export function Post() {
             src="https://github.com/luisruediger.png" 
             alt="" 
           />
-        </div>
-        <div className={styles.authorInfo}>
-          <strong>Luis Ruediger</strong>
-          <span>Web Developer</span>
+        
+          <div className={styles.authorInfo}>
+            <strong>Luis Ruediger</strong>
+            <span>Web Developer</span>
+          </div>
         </div>
 
         <time title='01 de fevereiro ás 06:30h' dateTime="2023-02-01 06:30:00">Publicado há 1h</time>
@@ -24,9 +25,13 @@ export function Post() {
 
       <p>Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀</p>
 
-      <p>👉 <a href=''>jane.design/doctorcare</a></p>
+      <p><a href=''>jane.design/doctorcare</a></p>
 
-      <p><a href=''>#novoprojeto #nlw #rocketseat</a></p>
+      <p>
+        <a href=''>#novoprojeto </a>{' '}
+        <a href=''>#nlw </a>{' '}
+        <a href=''>#rocketseat</a>
+      </p>
       </div>
     </article>
   )
